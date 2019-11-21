@@ -12,7 +12,7 @@ I received permission from the instructor to make my code public.
 Project 1: Project 1 includes work in SQL altering the characteristics of healthcare data for various patients. 
 
 
-Project 2: 
+Project 2: Project 2 included work with both SQL and R, wrangling with tables pertaining to healthcare, demographics and text messages. There was also data visualization involved, and it encompassed a broad range of skills. 
 
 
 midterm_project: 
