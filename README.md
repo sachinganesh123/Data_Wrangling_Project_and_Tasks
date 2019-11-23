@@ -15,7 +15,7 @@ Project 1: Project 1 includes work in SQL altering the characteristics of health
 Project 2: Project 2 included work with both SQL and R, wrangling with tables pertaining to healthcare, demographics and text messages. There was also data visualization involved, and it encompassed a broad range of skills. 
 
 
-midterm_project: 
+midterm_project: The Midterm Project included extensive data wrangling on an XPT file containing data on diabetes and other chronic health conditions. 
 
 
 final_project: 
