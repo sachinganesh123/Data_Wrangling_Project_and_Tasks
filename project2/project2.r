@@ -108,3 +108,4 @@ ggplot(data=texts_by_condition,aes(x=week_no,y=txts_per_week,
   theme_minimal()+
   labs(x="Week Number",y="Texts per Week",title="Texts per Week by Condition",
        color="Condition")
+#
