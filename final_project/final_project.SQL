@@ -19,7 +19,7 @@ alter table sganesh.TextMessagesFinal
 alter column TextSentDate date
 
 
--- Final table : 4 nested select statements to join, and pivot the result--
+-- Final table : 4 nested select statements to join, and pivot the result---
 
 select * from
 (select  A.*, AA.* from sganesh.DemographicsFinal A
