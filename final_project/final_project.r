@@ -41,7 +41,7 @@ bp_tbl$Dichotomus[bp_tbl$BPStatus=="HTN3"]<-0
 sample_n(bp_tbl,10) #print 10 random rows
 
 
-#C. 
+#C.. 
 myconn<-odbcConnect("dartmouth","sganesh","sganesh@qbs181")
 
 
