@@ -18,5 +18,5 @@ Project 2: Project 2 included work with both SQL and R, wrangling with tables pe
 midterm_project: The Midterm Project included extensive data wrangling on an XPT file containing data on diabetes and other chronic health conditions. 
 
 
-final_project: 
+final_project: Our final project included work throughout the entire course, encompassing both SQL and R. The project had us working with more healthcare data on Blood Pressure, Demographics, Conditions and TextMessages, and included performing operations on one or all of these tables using both SQL and R. 
 
